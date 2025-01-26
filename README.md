@@ -15,7 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Video Link For Project!]](https://www.loom.com/share/3e71a82c718e4ccaad7bbf5d5e057dcd?sid=05400457-17c6-4dea-8215-9b87ce28c4b3) .
+<div>
+    <a href="https://www.loom.com/share/3e71a82c718e4ccaad7bbf5d5e057dcd">
+      <p>Pre-Work Application Showcase - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3e71a82c718e4ccaad7bbf5d5e057dcd">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3e71a82c718e4ccaad7bbf5d5e057dcd-253f48ceabed4a96-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
